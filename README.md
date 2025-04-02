@@ -1,0 +1,121 @@
+
+![PixPick Logo](./img/pixpick.png)
+
+# PixPick - A GUI Manga, Manhua, Manhwa and Comic Downloader
+
+### Important Note
+
+Base of this application was originally a plugin for **Animate-RX AI** and We do not added it to the AI. And We build application with that base code. Use at your own discretion. Do not download copyrighted content with this. We discourage any illegal usage.
+
+#### Liability and License Notice
+PixPick and its maintainers cannot be held liable for misuse of this application, as stated in the [MIT license](https://github.com/ranujasanmir/PixPick/LICENSE).
+The maintainers of PixPick do not in any way condone the use of this application in practices that violate the Terms of Service of web apps that allow to read comics (From now on we represent Manga, Manhua, Manhwa and any others using comics). The maintainers of this application call upon the personal responsibility of its users to use this application in a fair way, as it is intended to be used.
+##
+
+PixPick does not require Selenium or any other browser to be interface with web pages, it does so directly using a **http requests**. 
+Also some web pages blocking http requests. So you cannot download content from that sites.
+ 
+## Please Read
+
+This is the only official repository and is maintained by the community.
+ **Contact the Main Developer [here](https://t.me/PixCap_Support)**
+
+**_`PixPick` is a GUI software that allow users to download Manga, Manhua, Manhwa, Comics and etc for read offline._**
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Update](#update)
+- [How To Use](#how-to-use)
+  - [Home](#home)
+  - [Features](#features)
+  - [Templates](#templates)
+- [Terms And Condition](#terms-and-condition)
+- [License](#license)
+- [About Us](#about-us)
+
+## Installation
+
+To download go to [release](https://github.com/ranujasanmir/PixPick/release) and select any version that suitable for your system(Recommended to download latest version):
+
+`PixPick` builded using Python. If you facing any error while opening it, Please install latest version of [Python](https://python.org) to fix opening errors!
+
+You can install PixPick by opening installer and follow the instructions.
+
+## Update
+
+**How to Update:**
+
+You can update PixPick by downloading and installing new version. Maybe in new versions GUI can be changed. But new versions have new features. So updating is at your own decision. Download latest application from [PixPick](https://github.com/ranujasanmir/PixPick/release).
+
+## How To Use
+
+**How to use:**
+
+To use PixPick you must have direct URLs to the each chapters. You can download chapter by chapter or can use bulk downloader.
+
+Paste your URL inside the textbox at top of the application. You can also add mutiple URLs to it by seperating each one by comma.
+
+```
+https://example.com/manga-name/chapter-1, https://example.com/manga-name/chapter-2, https://example.com/manga-name/chapter-3
+```
+
+Now you can select output folder. If you didn't select one, PixPick will automatically download images into the `./images` folder at same folder as application in seperated folders for each chapters.
+
+Once you select the folder, you can enable filtering options. If you enable `Filter by Keywords`, PixPick will only download images with the keywords you have provided. For example:
+
+Imagine that page has two images with following links,
+
+```
+https://example.com/wp-content/manga-images/image1.png
+```
+```
+https://example.com/wp-content/images/logo.png
+```
+
+First link is one of image URL in manga chapter. But second one is web site logo. As you can see first link has keyword 'manga' inside it. But second image not have it. If you enable `Filter by Keywords`, and add 'manga' keywords PixPick only download images that has `manga` as a keywords.
+
+**Keep in mind:**
+
+Usually comic images has width more than 500 pixels in every comic sites. PixPick will automatically skipping images that has width lower than 500 pixels. In next Filtering option you can ajust the pixel limit according to the you likes. But make sure to check width and height in comic images before adding it.
+
+Next is you can select image saving file format. If you select any of available optionPixPick will save all images in that file format.
+
+### Features
+
+**Easily download full chapters:**
+PixPick allow you to download each chapter without Right-Click -> Save as Image inn browser!
+
+**Bulk download:**
+No need to manually visit every page. Just paste all links to download seperated by comma, PixPick will download all chapters you entered!
+
+**Filtering Options:**
+PixPick give filtering options to ajust. So you don't miss any chapter images!
+
+**Convert image format while downloading:**
+PixPick allow users to select output file format. So don't worry about *.webp files. You can automatically save them as *.jpg or *.png while downloading!
+
+### Templates
+
+> Templates will allow you to simply setup filtering options for specific comic pages. This feature is still under development.
+
+## Terms And Condition
+
+1. **Use Responsibly**: PixPick Premium is developed for only personal usage. For other usage you have to buy another premium subscription.
+
+2. **Security**: Virustotal show PixPick has viruses. Don't worry. It's because we developed this application using old compiler. PixPick is 1000% secured! 
+
+3. **Privacy**: We do not store any details about you.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## About Us
+
+We are PixCap TM. We are from Sri Lanka. We interest on programming and software development. And we are developing telegram bots. You can find Medusa bot on telegram(Username : @medusa_rs45_bot). This bot has awesome tools for interact with donghua and anime world. Check it out!
+
+**Copyright © 2020-2023 PixCap TM.**
+**All rights Reserved.**
+
+
