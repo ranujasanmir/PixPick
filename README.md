@@ -30,6 +30,7 @@ This is the only official repository and is maintained by the community.
   - [Home](#home)
   - [Features](#features)
   - [Templates](#templates)
+    - [Create Your Own Templates](#create-templates)
 - [Terms And Condition](#terms-and-condition)
 - [License](#license)
 - [About Us](#about-us)
@@ -84,7 +85,7 @@ Next is you can select image saving file format. If you select any of available 
 ### Features
 
 **Easily download full chapters:**
-PixPick allow you to download each chapter without Right-Click -> Save as Image inn browser!
+PixPick allow you to download each chapter without Right-Click -> Save as Image in browser!
 
 **Bulk download:**
 No need to manually visit every page. Just paste all links to download seperated by comma, PixPick will download all chapters you entered!
@@ -93,29 +94,48 @@ No need to manually visit every page. Just paste all links to download seperated
 PixPick give filtering options to ajust. So you don't miss any chapter images!
 
 **Convert image format while downloading:**
-PixPick allow users to select output file format. So don't worry about *.webp files. You can automatically save them as *.jpg or *.png while downloading!
+PixPick allow users to select output file format.. You can automatically save them as *.jpg or *.png or *.webp while downloading! But we suggest you to set it to `Auto`
 
 ### Templates
 
-> Templates will allow you to simply setup filtering options for specific comic pages. This feature is still under development.
+> Templates will allow you to simply setup filtering options for specific comic pages. If you select any template available you can download comics from that site without editing filtering options.
+
+#### Create Templates
+
+> You can also create your own templates and submit to us. Configuration for Templates are following:
+
+```json
+{
+  "name": "example.com", // Add name of the site yu creating template for.
+  "keywords": ["manga"], // Add keywords. These are the links keyword in <img src="#"> as mentioned earliar.
+  "min_width": 600 // This is the minimum width of manga image.
+},
+{
+  "name": "example.com",
+  "keywords": [], // In this site it dosen't need keywords to download manga images. Its downloading all images that width higher than min_width.
+  "min_width": 600
+}
+```
+
+> We are glad to host your templates on our official server. Send your templates to us: [On Telegram](https://t.me/PixCap_Support)
 
 ## Terms And Condition
 
-1. **Use Responsibly**: PixPick Premium is developed for only personal usage. For other usage you have to buy another premium subscription.
+1. **User Responsibly**: PixPick is developed for only personal usage. For other usage you have to ask permission from comics sites maintainers.
 
-2. **Security**: Virustotal show PixPick has viruses. Don't worry. It's because we developed this application using old compiler. PixPick is 1000% secured! 
+2. **Security**: PixPick is 100% safe. It will only connect with our server and comic sites web servers only. No your data will be collected or shared. PixPick will automatically checking update by requesting our server. 
 
-3. **Privacy**: We do not store any details about you.
+3. **Privacy**: We didn't have privacy for PixPick for now. But you have to agree with comic sites privacy policies before download them.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ranujasanmir/PixPick/LICENSE) file for details.
 
 ## About Us
 
-We are PixCap TM. We are from Sri Lanka. We interest on programming and software development. And we are developing telegram bots. You can find Medusa bot on telegram(Username : @medusa_rs45_bot). This bot has awesome tools for interact with donghua and anime world. Check it out!
+We are PixCap TM. We are from Sri Lanka! We are intended to build modern day solutions for make this world better...
 
-**Copyright © 2020-2023 PixCap TM.**
+**Copyright © 2020-2025 PixCap TM.**
 **All rights Reserved.**
 
 
