@@ -8,7 +8,7 @@
 Base of this application was originally a plugin for **Animate-RX AI** and We do not added it to the AI. And We build application with that base code. Use at your own discretion. Do not download copyrighted content with this. We discourage any illegal usage.
 
 #### Liability and License Notice
-PixPick and its maintainers cannot be held liable for misuse of this application, as stated in the [MIT license](https://github.com/ranujasanmir/PixPick/LICENSE).
+PixPick and its maintainers cannot be held liable for misuse of this application, as stated in the [MIT license](https://github.com/ranujasanmir/PixPick/blob/main/LICENSE).
 The maintainers of PixPick do not in any way condone the use of this application in practices that violate the Terms of Service of web apps that allow to read comics (From now on we represent Manga, Manhua, Manhwa and any others using comics). The maintainers of this application call upon the personal responsibility of its users to use this application in a fair way, as it is intended to be used.
 ##
 
@@ -37,7 +37,7 @@ This is the only official repository and is maintained by the community.
 
 ## Installation
 
-To download go to [release](https://github.com/ranujasanmir/PixPick/release) and select any version that suitable for your system(Recommended to download latest version):
+To download go to [release](https://github.com/ranujasanmir/PixPick/releases) and select any version that suitable for your system(Recommended to download latest version):
 
 `PixPick` builded using Python. If you facing any error while opening it, Please install latest version of [Python](https://python.org) to fix opening errors!
 
@@ -47,7 +47,7 @@ You can install PixPick by opening installer and follow the instructions.
 
 **How to Update:**
 
-You can update PixPick by downloading and installing new version. Maybe in new versions GUI can be changed. But new versions have new features. So updating is at your own decision. Download latest application from [PixPick](https://github.com/ranujasanmir/PixPick/release).
+You can update PixPick by downloading and installing new version. Maybe in new versions GUI can be changed. But new versions have new features. So updating is at your own decision. Download latest application from [PixPick](https://github.com/ranujasanmir/PixPick/releases).
 
 ## How To Use
 
