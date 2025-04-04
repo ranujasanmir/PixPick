@@ -3,9 +3,11 @@
 
 # PixPick - A GUI Manga, Manhua, Manhwa and Comic Downloader
 
+<a href="" target="_blank" style="display: inline-block"; background-color: #28a745; color: white; padding: 10px 20px; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 5px;">Download Now</a>
+
 ### Important Note
 
-Base of this application was originally a plugin for **Animate-RX AI** and We do not added it to the AI. And We build application with that base code. Use at your own discretion. Do not download copyrighted content with this. We discourage any illegal usage.
+Base of this application was originally a plugin for **Animate-RX AI** and We didn't added it to the AI. And We build application with that base code. Use at your own discretion. Do not download copyrighted content with this. We discourage any illegal usage.
 
 #### Liability and License Notice
 PixPick and its maintainers cannot be held liable for misuse of this application, as stated in the [MIT license](https://github.com/ranujasanmir/PixPick/blob/main/LICENSE).
@@ -26,6 +28,7 @@ This is the only official repository and is maintained by the community.
 
 - [Installation](#installation)
 - [Update](#update)
+- [System Requirements](#system-requirements)
 - [How To Use](#how-to-use)
   - [Home](#home)
   - [Features](#features)
@@ -48,6 +51,16 @@ You can install PixPick by opening installer and follow the instructions.
 **How to Update:**
 
 You can update PixPick by downloading and installing new version. Maybe in new versions GUI can be changed. But new versions have new features. So updating is at your own decision. Download latest application from [PixPick](https://github.com/ranujasanmir/PixPick/releases).
+
+## System Requirements
+
+**Following system Requirements are used to test PixPick. Keep in mind that you can run PixPick even with the lower specs than these.**
+
+> Operating System : Windows 7(Service Pack 1), Windows 8, Windows 8.1, Windows 10 and Windows 11 x64 bit(Note: This will not run poperly on Windows 7.)
+> Architecture : x64 Bit
+> Memory : 2 GB
+> Free Disk Space : PixPick need at least 25MB free space for applications. But for download comics you need more space
+> Others : You need good internet connection
 
 ## How To Use
 
