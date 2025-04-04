@@ -3,7 +3,7 @@
 
 # PixPick - A GUI Manga, Manhua, Manhwa and Comic Downloader
 
-[Download Now!](https://via.placeholder.com/200x50?text=Download+Now)](https://github.com/ranujasanmir/PixPick/releases)
+[!Download Now](https://via.placeholder.com/200x50?text=Download+Now)](https://github.com/ranujasanmir/PixPick/releases)
 
 ### Important Note
 
