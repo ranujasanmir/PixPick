@@ -3,7 +3,7 @@
 
 # PixPick - A GUI Manga, Manhua, Manhwa and Comic Downloader
 
-[![Download Now](https://via.placeholder.com/200x50?text=Download+Now)](https://github.com/ranujasanmir/PixPick/releases)
+[![Download Now](./img/dwn.png)](https://github.com/ranujasanmir/PixPick/releases/download/v2.0/PixPick.Installer.x64.bit.exe)
 
 ### Important Note
 
@@ -74,7 +74,7 @@ Paste your URL inside the textbox at top of the application. You can also add mu
 https://example.com/manga-name/chapter-1, https://example.com/manga-name/chapter-2, https://example.com/manga-name/chapter-3
 ```
 
-Now you can select output folder. If you didn't select one, PixPick will automatically download images into the `./images` folder at same folder as application in seperated folders for each chapters.
+Now you can select output folder. If you didn't select one, PixPick will automatically download images into the `Downloads/PixPick Images` and inside the specific folder for each manga and chapters.
 
 Once you select the folder, you can enable filtering options. If you enable `Filter by Keywords`, PixPick will only download images with the keywords you have provided. For example:
 
