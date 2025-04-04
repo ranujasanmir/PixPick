@@ -3,6 +3,8 @@
 
 # PixPick - A GUI Manga, Manhua, Manhwa and Comic Downloader
 
+**Click here to Download Latest Version:**
+
 [![Download Now](./img/dwn.png)](https://github.com/ranujasanmir/PixPick/releases/download/v2.0/PixPick.Installer.x64.bit.exe)
 
 ### Important Note
