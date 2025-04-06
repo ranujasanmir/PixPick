@@ -5,7 +5,7 @@
 
 **Click here to Download Latest Version:**
 
-[![Download Now](./img/dwn.png)](https://github.com/ranujasanmir/PixPick/releases/download/v2.0/PixPick.Installer.x64.bit.exe)
+[![Download Now](./img/dwn.png)](https://github.com/ranujasanmir/PixPick/releases/download/v2.3/PixPick.Installer.x64.bit.exe)
 
 ### Important Note
 
@@ -67,6 +67,11 @@ You can update PixPick by downloading and installing new version. Maybe in new v
 ## How To Use
 
 **How to use:**
+
+PixCap UI (In v2.3) :
+![PixPick Home](./img/1.PNG)
+
+![PixPick While Downloading](./img/2.PNG)
 
 To use PixPick you must have direct URLs to the each chapters. You can download chapter by chapter or can use bulk downloader.
 
