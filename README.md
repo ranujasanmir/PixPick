@@ -5,7 +5,7 @@
 
 **Click here to Download Latest Version:**
 
-[![Download Now](./img/dwn.png)](https://github.com/ranujasanmir/PixPick/releases/download/v2.3/PixPick.Installer.x64.bit.exe)
+[![Download Now](./img/dwn.png)](https://github.com/ranujasanmir/PixPick/releases/download/v2.4/PixPick.Installer.x64.bit.exe)
 
 ### Important Note
 
